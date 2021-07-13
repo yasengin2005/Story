@@ -1,3 +1,1 @@
-# tindog
-tinderlike app for dogs
-02.06.2021
+# Angelina Yu Git & GitHub tutorial
